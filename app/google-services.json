@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1032393448496",
+    "project_id": "fir-learning-2532e",
+    "storage_bucket": "fir-learning-2532e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032393448496:android:5e4a9550ffcc46ee88e1f5",
+        "android_client_info": {
+          "package_name": "com.example.firebaselearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032393448496-sj751bu0oge5bvufqma8sp2vjv2r5kqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselearning",
+            "certificate_hash": "e4501bd4abf05808f77dd06c325c57591c16ca36"
+          }
+        },
+        {
+          "client_id": "1032393448496-lqd9cp0t61dduor3qffuk4mu3g1da47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4V6uLqOXQmRT8qKdsCVM89rUiPXtbOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032393448496-lqd9cp0t61dduor3qffuk4mu3g1da47p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
